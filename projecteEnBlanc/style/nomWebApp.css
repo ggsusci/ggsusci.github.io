@@ -48,11 +48,29 @@ main{
     background-color: red;
 }
 
+
+
+.prgrOff{
+
+    display:none;
+}
+
+.prgrOn{
+    display:initial;
+}
+
+
+
+
 /*Estilos del pie de pagina*/
 footer{
     grid-area: footer;
     background-color: green;
     padding: 1em;
     
+}
+
+#caja3{
+    height:100vh;
 }
 
