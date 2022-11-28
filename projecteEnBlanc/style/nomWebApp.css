@@ -79,7 +79,7 @@ main{
 /*Estilos del pie de pagina*/
 footer{
     grid-area: footer;
-    background-color: green;
+    background-color: rgb(2, 78, 2);
     padding: 1em;
     
 }
