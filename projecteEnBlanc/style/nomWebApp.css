@@ -42,6 +42,20 @@ h2{
 }
 
 
+/*Estilos de los acordeones*/
+
+.acordeon{
+    width:100%;
+    height:25px;
+    margin:3px;
+    
+} 
+
+.acordeon:hover{
+    background-color: grey;
+}
+
+
 /*Estilos del contenido principal*/
 main{
     grid-area: main;
